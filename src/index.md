@@ -36,9 +36,8 @@ where I feature some of my projects!
 
 ## Where you can find me
  - [Over @GitHub](https://github.com/andi-makes)
- - [Contact me via E-Mail](mailto:contact@andi-makes.dev)
- - [On my Discord Server](https://discord.com/invite/yENgYZdmKY)
  - [I infrequently also stream on Twitch](https://www.twitch.tv/andi_makes)
+ - [Link to my contact data](https://andi-makes.dev/contact/)
 
 ## Make sure to also check out:
  - [notes.andi-makes.dev](https://notes.andi-makes.dev): My little blog like thing
