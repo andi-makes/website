@@ -20,9 +20,9 @@ $endif$
   <style>
     $styles.html()$
   </style>
-  <link rel="shortcut icon" href="favicon.png">
+  <link rel="shortcut icon" href="/favicon.png">
 $for(css)$
-  <link rel="stylesheet" href="$css$" />
+  <link rel="stylesheet" href="/$css$" />
 $endfor$
 $for(header-includes)$
   $header-includes$
@@ -35,7 +35,7 @@ $endif$
   <![endif]-->
 </head>
 <body>
-<img src="img/avatar.svg" title="My avatar, a simple smiley" id="avatar" alt="My avatar" style="max-width: 100px;"/>
+<img src="/img/avatar.svg" title="My avatar, a simple smiley" id="avatar" alt="My avatar" style="max-width: 100px;"/>
 $if(title)$
 <header id="title-block-header">
 <h1 class="title">$title$</h1>
