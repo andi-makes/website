@@ -28,7 +28,7 @@ try it out some day. I've played around with it for a little bit, and the toolin
 as well as the existing hardware abstraction layers seem very promising.
 
 I'm mostly using Rust to program normal applications. I am convinced that Rust 
-will have a bright future alongside other programming languages like C, C++ and Go.
+will have a bright future alongside other programming languages like C and C++.
 
 ## Projects
 If you are interested in some of my work, feel free to check out [my GitHub profile](https://github.com/andi-makes)
