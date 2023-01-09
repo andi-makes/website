@@ -18,7 +18,7 @@ output/%: resources/%
 	cp -Ru $< $@
 	
 upload: compile
-	tar -cz -C output . | ssh root@andi-makes.dev "rm -rf $(SERVER_DIR) && mkdir $(SERVER_DIR) && tar -xzv -C $(SERVER_DIR) --no-same-permissions"
+	tar -cz -C output . | ssh root@schmarrnfee.schmarrn.dev "rm -rf $(SERVER_DIR) && mkdir $(SERVER_DIR) && tar -xzv -C $(SERVER_DIR) --no-same-permissions"
 
 clean:
 	rm -r output
