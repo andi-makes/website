@@ -1,9 +1,9 @@
-html {                                                                                                                
-  line-height: 1.5;                                                                                                 
-  font-family: serif;                                                                                               
-  font-size: 20px;                                                                                                  
-  color: #fbf1c7;                                                                                                   
-  background-color: #282828;                                                                                        
+html {
+  line-height: 1.5;
+  font-family: serif;
+  font-size: 20px;
+  color: #cdd6f4;
+  background-color: #1e1e2e;
 }
 body {
   margin: 0 auto;
@@ -44,17 +44,17 @@ p {
   margin: 1em 0;
 }
 a {
-  color: #8ec07c;
+  color: #f5e0dc;
 }
 a:visited {
-  color: #8ec07c;
+  color: #f2cdcd;
 }
 img {
   max-width: 100%;
 }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.4em;
-  color: #fe8019;
+  color: #89b4fa;
 }
 h5, h6 {
   font-size: 1em;
@@ -130,6 +130,7 @@ header {
 footer {
   font-size: smaller;
   text-align: center;
+  color: #8087a2;
 }
 #TOC li {
   list-style: none;

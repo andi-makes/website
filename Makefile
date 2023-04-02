@@ -1,4 +1,4 @@
-SOURCES = index contact/index
+SOURCES = index
 RESOURCES = img/avatar.svg style.css favicon.png
 SERVER_DIR = /var/www/andi-makes.dev
 
