@@ -78,7 +78,7 @@ Während ich mit Freunden Minecraft gespielt habe, brauchten wir eine Light Over
 Die damals existierenden Mods haben entweder nicht funktioniert oder waren für die Spieleversion,
 auf der wir spielten, nicht verfügbar, also begonn ich mit der Programmierung meiner eigenen Mod.
 
-Mittlerweile hat die Mod [über 5000 Downloads auf Modrinth.](https://modrinth.com/mod/lighty)
+Mittlerweile hat die Mod [über 6000 Downloads auf Modrinth.](https://modrinth.com/mod/lighty)
 
 ### [swh - Über Webhooks Docker Container neustarten](https://git.schmarrn.dev/andi/swh)
 Ein kleines Hilfstool, welches ich in Rust geschrieben habe. Wenn ich Änderungen auf ein 
