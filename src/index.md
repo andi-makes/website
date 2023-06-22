@@ -13,7 +13,7 @@ keywords:
 ---
 
 ## Short Facts
- - ETIT-Bachelorstudent an der TU Wien im 3. Semester
+ - ETIT-Bachelorstudent an der TU Wien im 4. Semester
  - Freiwilliger Rettungssanitäter beim Samariterbund
  - Leidenschaftlicher Maker und Bastler
 
