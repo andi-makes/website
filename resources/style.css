@@ -1,7 +1,7 @@
 html {
   line-height: 1.5;
-  font-family: serif;
-  font-size: 20px;
+  font-family: "Source Serif", serif;
+  font-size: 16pt;
   color: #cdd6f4;
   background-color: #1e1e2e;
 }
@@ -51,6 +51,14 @@ a:visited {
 }
 img {
   max-width: 100%;
+}
+h1 {
+  font-family: "Source Serif SmText";
+  font-variant-caps: all-small-caps;
+}
+h2 {
+  font-family: "Source Serif SmText";
+  font-variant-caps: all-small-caps;
 }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.4em;
