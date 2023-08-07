@@ -1,5 +1,5 @@
 SOURCES = index
-RESOURCES = img/avatar.svg style.css favicon.png source-serif-text.css source-serif-display.css source-serif-smtext.css fonts/SourceSerif4-Bold.otf.woff2 fonts/SourceSerif4-BoldIt.otf.woff2 fonts/SourceSerif4-It.otf.woff2 fonts/SourceSerif4-Regular.otf.woff2 fonts/SourceSerif4Display-Bold.otf.woff2 fonts/SourceSerif4SmText-Regular.otf.woff2
+RESOURCES = img/avatar.svg style.css favicon.png source-serif-text.css source-serif-smtext.css fonts/SourceSerif4-Bold.otf.woff2 fonts/SourceSerif4-BoldIt.otf.woff2 fonts/SourceSerif4-It.otf.woff2 fonts/SourceSerif4-Regular.otf.woff2 fonts/SourceSerif4SmText-Regular.otf.woff2
 SERVER_DIR = /var/www/andi-makes.dev
 
 
